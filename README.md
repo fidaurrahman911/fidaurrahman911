@@ -1,16 +1,66 @@
-## Hi there 👋
+# Fida Ur Rahman
 
-<!--
-**fidaurrahman911/fidaurrahman911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 🔐 Cybersecurity Enthusiast  
+📍 Chitral, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a motivated Computer Science student with a strong interest in cybersecurity and digital safety.  
+Coming from a resource-limited background, I have built my skills through self-learning, hands-on labs, and real projects.
+
+I actively practice on TryHackMe, complete industry-recognized certifications, and build security tools to strengthen my technical foundation.  
+My goal is to pursue higher education abroad and contribute to building secure digital systems.
+
+---
+
+## Skills
+- Linux & Command Line
+- Networking Fundamentals
+- Nmap & Reconnaissance
+- Web Security Basics
+- Python
+- C++
+- Technical Writing
+
+---
+
+## Projects
+🔹 **Knox – Password Strength Checker & Manager**  
+A React-based security tool to analyze password strength and estimate brute-force attack time.
+
+🔹 **TryHackMe Write-ups**  
+Documented labs on Nmap, Vulnversity, and network reconnaissance.
+
+---
+
+## Certifications
+- Google Cybersecurity (In progress)
+- CS50 by Harvard University (In progress)
+- Python for Everybody by University of Michigan (In progress)
+- IBM Cybersecurity Essentials
+- Cisco Introduction to Cybersecurity
+- English for Career Development (UPenn)
+
+---
+
+## Volunteering
+- Ambassador – Right Step Organization (RSO)  
+- Volunteer – Bano Qabil (Alkhidmat Pakistan) 
+
+---
+
+## Articles
+- Learning Computer Science Without Privilege  
+- Cybersecurity Awareness Blogs
+
+---
+
+## Connect With Me
+🔗 LinkedIn: (paste link)  
+📝 Medium: (paste link)  
+📧 Email: fidanoristani@gmail.com
+
+---
+
+⭐ Building skills daily. Focused on real learning, not shortcuts.
