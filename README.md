@@ -60,7 +60,10 @@ Documented labs on Nmap, Vulnversity, and network reconnaissance.
 
 ## Connect With Me
 🔗 LinkedIn: https://www.linkedin.com/in/fida-ur-rahman-a51287389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
 📝 Medium: https://medium.com/@fidanoristani
+
 📧 Email: fidanoristani@gmail.com
 
 ---
