@@ -44,9 +44,11 @@ Documented labs on Nmap, Vulnversity, and network reconnaissance.
 
 ---
 
-## Volunteering
-- Ambassador – Right Step Organization (RSO)  
-- Volunteer – Bano Qabil (Alkhidmat Pakistan) 
+## Volunteering  
+- Community Leader – Bano Qabil Pakistan
+- Emergency Relief - Alkhidmat Pakistan
+- Student Volunteer - Yaran e khair
+- Ambassador – Right Step Organization (RSO)
 
 ---
 
@@ -58,7 +60,7 @@ Documented labs on Nmap, Vulnversity, and network reconnaissance.
 
 ## Connect With Me
 🔗 LinkedIn: https://www.linkedin.com/in/fida-ur-rahman-a51287389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-📝 Medium: @fidanoristani 
+📝 Medium: https://medium.com/@fidanoristani
 📧 Email: fidanoristani@gmail.com
 
 ---
